@@ -12,6 +12,7 @@ Accessible modal dialog component for React.JS
 * [Active Development](#active-development)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Component Props](docs/README.md)
 * [Styles](#styles)
 * [Examples](#examples)
 * [Testing](#testing)
