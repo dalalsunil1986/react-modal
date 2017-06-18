@@ -38,6 +38,8 @@ The Modal object has two required props:
 - `isOpen` to render its children.
 - `contentLabel` to improve a11y, since `v1.6.0`.
 
+A complete list of Modal props can be found [here](docs/README.md).
+
 Example:
 
 ```xml
